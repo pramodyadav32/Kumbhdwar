@@ -1,0 +1,6 @@
+framework module Pods_Kumbhdwar_KumbhdwarUITests {
+  umbrella header "Pods-Kumbhdwar-KumbhdwarUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
